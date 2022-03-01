@@ -23,10 +23,11 @@
   },
   "config": {
     "commitizen": {
-      "path": "cz-conventional-changelog"
+      "path": "node_modules/cz-emoji-conventional"
     }
   },
   "dependencies": {
+    "@primer/react": "^34.6.0",
     "react": "latest",
     "react-dom": "latest",
     "react-redux": "^7.2.6",
@@ -49,7 +50,9 @@
     "@vitejs/plugin-react": "1.2.0",
     "babel-jest": "^27.5.1",
     "commitizen": "^4.2.4",
+    "commitlint-config-gitmoji": "^2.2.5",
     "cross-env": "^7.0.3",
+    "cz-emoji-conventional": "^1.0.1",
     "eslint": "8.9.0",
     "eslint-config-airbnb": "19.0.4",
     "eslint-config-airbnb-typescript": "16.1.0",
