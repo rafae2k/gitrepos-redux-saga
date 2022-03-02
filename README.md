@@ -1,30 +1,10 @@
-# React Template（⚡️）
-
-🚀 A React quick start project template powered by vite.
+# GitRepos（⚡️）
 
 ## Feature
 
-- ⚡️ Fast - Build tools based on vite.
-- 💄 Prettier - Integrated Prettier to help you format the code.
-- 😎 Reliable - Integrated eslint, stylelint, commitlint and jest.
-- 🤖 Intelligent - Integrated renovate to help you maintain the dependent version.
-
 ## Getting Started
 
-
-```bash
-yarn degit rafae2k/react-vite-ts-styled-boilerplate myapp
-
-cd myapp
-```
-
-### Prerequisites
-
-- `yarn` should be installed.
-- `git` should be installed (recommended v2.4.11 or higher)
-
 ### Available scripts
-
 
 #### `yarn dev`
 
