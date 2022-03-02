@@ -28,6 +28,7 @@
   },
   "dependencies": {
     "@primer/react": "^34.6.0",
+    "@styled-icons/bootstrap": "^10.34.0",
     "react": "latest",
     "react-dom": "latest",
     "react-redux": "^7.2.6",
